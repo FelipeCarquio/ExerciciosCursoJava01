@@ -1,6 +1,5 @@
 package exercicio03;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Ex03 {
